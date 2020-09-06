@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Grocery Hunt</string>
+    <string name="title_categories">Categories</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_settings">Settings</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string-array name="name1">
+        <item>Pulses</item>
+        <item>Atta and Other Flours</item>
+        <item>Rice and Other Grains</item>
+        <item>Dry Fruits and Nuts</item>
+        <item>Edible Oils</item>
+        <item>Ghee and Vanaspati</item>
+
+    </string-array>
+    <string-array name="offers1">
+        <item>UP TO 61% OFF</item>
+        <item>UP TO 68% OFF</item>
+        <item>UP TO 57% OFF</item>
+        <item>UP TO 67% OFF</item>
+        <item>UP TO 68% OFF</item>
+        <item>UP TO 23% OFF</item>
+
+    </string-array>
+    <string-array name="name2">
+        <item>Spices</item>
+        <item>Salt and Sugar</item>
+        <item>Organic Staples</item>
+        <item>Vegetables</item>
+        <item>Fruits</item>
+        <item>Poultry Products</item>
+    </string-array>
+    <string-array name="offers2">
+        <item>UP TO 60% OFF</item>
+        <item>UP TO 43% OFF</item>
+        <item>UP TO 39% OFF</item>
+        <item>UP TO 24% OFF</item>
+        <item>UP TO 29% OFF</item>
+        <item>UP TO 10% OFF</item>
+    </string-array>
+    <string-array name="brand">
+        <item>FRESHO</item>
+        <item>FRESHO</item>
+        <item>FRESHO</item>
+    </string-array>
+
+    <string-array name="product">
+        <item>Langra Mango</item>
+        <item>Chausa Mango</item>
+        <item>Dasheri Mango</item>
+    </string-array>
+
+    <string-array name="quantity">
+        <item>1kg</item>
+        <item>500g</item>
+        <item>1kg</item>
+    </string-array>
+
+    <string-array name="mrp">
+        <item>MRP:Rs 69</item>
+        <item>MRP:Rs 99</item>
+        <item>MRP:Rs 45</item>
+    </string-array>
+    <string-array name="name">
+        <item>101 rupees</item>
+        <item>89 rupees</item>
+        <item>17 rupees</item>
+        <item>43 rupees</item>
+        <item>40 rupees</item>
+    </string-array>
+    <string-array name="detail">
+        <item>Fortune Premium Kachi Ghani Pure Mustard Oil </item>
+        <item>Fortune Soya Health Refined Soyabean Oil</item>
+        <item>Tata Salt</item>
+        <item>Catch Coriander or Dhania Powder</item>
+        <item>Parle Hide and Seek Chocolate Chip Cookie</item>
+    </string-array>
+</resources>

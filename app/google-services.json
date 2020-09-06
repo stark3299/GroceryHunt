@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "381250665751",
+    "firebase_url": "https://groceryhunt-57148.firebaseio.com",
+    "project_id": "groceryhunt-57148",
+    "storage_bucket": "groceryhunt-57148.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381250665751:android:9180b9bc5d10f7f7",
+        "android_client_info": {
+          "package_name": "com.example.groceryhunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381250665751-mrts6vu8rltuu2o8em4dp6fas9unkcff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.groceryhunt",
+            "certificate_hash": "455a5a5d586b0ffc9c24b84f4a85f2ff2a3c03cf"
+          }
+        },
+        {
+          "client_id": "381250665751-k9qo70kucqe81b1a611ugkhf2qdmduis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.groceryhunt",
+            "certificate_hash": "80da1b4a7af590edf8ce1e2698508223676ea506"
+          }
+        },
+        {
+          "client_id": "381250665751-v9sd9hfhpmnbsr03to4otg9rl4bqc4nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlN29eVf_sZhDvmKN_6DlDPVHXnOcf-5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381250665751-v9sd9hfhpmnbsr03to4otg9rl4bqc4nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
